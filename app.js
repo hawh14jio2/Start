@@ -1,3 +1,3 @@
-const hello = 5;
+const age = 5;
 
 document.getElementById("h1").textContent = `age: ${age}`;
